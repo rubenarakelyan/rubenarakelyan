@@ -4,7 +4,7 @@
 
 I’m Ruben Arakelyan. Welcome to my GitHub profile.
 
-I’m a Ruby developer and Web 1.0 enthusiast living in the UK.
+I’m Principal at [Safran](https://www.safran.agency), a contract lead Ruby developer and retrocomputing enthusiast living in the UK.
 
 ![](images/hot.gif) Visit my [website](https://www.wackomenace.co.uk/) for my latest thoughts and ramblings. ![](images/hot.gif)
 
