@@ -11,3 +11,5 @@ I’m Principal at [Safran](https://www.safran.agency), a contract lead Ruby dev
 ![](images/underconstruction.gif)
 
 ![Ruben’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenarakelyan&show_icons=true)
+
+Proof: proven.lol/cb661d
